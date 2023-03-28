@@ -294,6 +294,18 @@ img {
   -webkit-transform: scale(1.15); /* Safari and Chrome */
 
 }
+/*About*/
+.modal-gallery .img {
+  margin-bottom: 30px;
+}
+.modal-gallery h1{
+  text-align: center;
+  font-size: 40px;
+  margin: 20px 0;
+  color: #ffa646;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 2px;
+}
 
 /* Form */
 .contact {
